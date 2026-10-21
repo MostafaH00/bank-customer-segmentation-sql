@@ -1,0 +1,11 @@
+﻿branch_id,branch_name,city,region,opened_date
+B001,Lyon Centre,Lyon,Auvergne-Rhône-Alpes,2012-04-12
+B002,Part-Dieu,Lyon,Auvergne-Rhône-Alpes,2015-09-21
+B003,Paris République,Paris,Île-de-France,2010-02-03
+B004,Marseille Vieux-Port,Marseille,Provence-Alpes-Côte d'Azur,2014-06-17
+B005,Toulouse Capitole,Toulouse,Occitanie,2016-11-08
+B006,Lille Centre,Lille,Hauts-de-France,2013-01-25
+B007,Bordeaux Chartrons,Bordeaux,Nouvelle-Aquitaine,2017-05-14
+B008,Nantes Commerce,Nantes,Pays de la Loire,2018-03-19
+B009,Grenoble Centre,Grenoble ,Auvergne-Rhône-Alpes,2019-07-02
+B010,Nice Masséna,Nice,Provence-Alpes-Côte d'Azur,2011-12-11
